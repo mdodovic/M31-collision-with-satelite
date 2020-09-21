@@ -5,4 +5,4 @@ Numerical simulation of collision of Andromeda galaxy (M31) and its satellite in
 
 ![energy](https://user-images.githubusercontent.com/32821985/93810156-852a1e00-fc4e-11ea-817c-cb67ff2a636b.png)
 ![radius](https://user-images.githubusercontent.com/32821985/93810160-85c2b480-fc4e-11ea-961d-5f8d60f5f330.png)
-
+![trajectory6e10-1e11](https://user-images.githubusercontent.com/32821985/93811085-e8688000-fc4f-11ea-9c1e-ea9f04431e64.png)
